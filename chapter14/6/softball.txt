@@ -1,0 +1,10 @@
+4 Jessie Joybat 5 2 1 1
+10 Darya Kurm 10 6 2 0
+4 Jessie Joybat 5 2 1 1
+15 Katya Gerasimova 12 8 1 7
+4 Jessie Joybat 5 2 1 1
+15 Katya Gerasimova 5 2 0 0
+10 Darya Kurm 6 4 1 2
+4 Jessie Joybat 5 2 1 1
+15 Katya Gerasimova 8 4 3 2
+4 Jessie Joybat 5 2 1 1
